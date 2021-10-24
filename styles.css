@@ -1,0 +1,19 @@
+body {
+    background-image: url(/images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 30%;
+    text-align: center;
+    margin-top: 5%;
+    background-color:white;
+    position: relative;
+}
+
+.head-image {    
+    
+}
